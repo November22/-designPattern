@@ -1,0 +1,9 @@
+package impl2;
+
+import java.util.Map;
+
+public class BeanUtils {
+	public static Map<K, V>(String,Object) backupProp(Object bean){
+		
+	}
+}

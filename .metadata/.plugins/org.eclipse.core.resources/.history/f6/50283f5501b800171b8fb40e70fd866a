@@ -1,0 +1,12 @@
+package abs;
+
+import impl.Context;
+
+/**
+ * ³éÏó½âÊÍÆ÷
+ * @author sen.huang
+ *
+ */
+public abstract class Expression {
+	public abstract Object interpeter(Context ctx);
+}

@@ -1,0 +1,9 @@
+package impl;
+
+import abs.Employer;
+
+public class Client {
+	public static void main(String[] args) {
+		Employer em = new ProjectManager("项目经理");
+	}
+}

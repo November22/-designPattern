@@ -1,0 +1,14 @@
+package impl2;
+
+import java.beans.Introspector;
+import java.util.HashMap;
+import java.util.Map;
+
+public class BeanUtils {
+	public static Map<String,Object> backupProp(Object bean){
+		Map<String, Object> result = new HashMap<>();
+		Introspector.getBeanInfo(bean.getClass());
+		
+		return result;
+	}
+}

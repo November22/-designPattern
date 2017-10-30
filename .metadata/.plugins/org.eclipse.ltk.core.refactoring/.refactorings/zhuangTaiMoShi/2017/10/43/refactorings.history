@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;impl.ConcreteStateSub.java&apos; to &apos;Rain.java&apos;&#x0D;&#x0A;- Original project: &apos;zhuangTaiMoShi&apos;&#x0D;&#x0A;- Original element: &apos;impl.ConcreteStateSub.java&apos;&#x0D;&#x0A;- Renamed element: &apos;impl.Rain.java&apos;" description="Rename compilation unit &apos;ConcreteStateSub.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;impl{ConcreteStateSub.java" name="Rain.java" references="false" stamp="1508943350245" version="1.0"/>
+</session>

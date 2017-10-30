@@ -1,0 +1,6 @@
+package zhuangshi;
+
+public interface Clothing {
+	
+	
+}

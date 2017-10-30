@@ -1,0 +1,13 @@
+package impl;
+
+import abs.Weather;
+
+public class Sunshine implements Weather{
+
+	@Override
+	public String getWeather() {
+		// TODO Auto-generated method stub
+		return "ั๔นโ";
+	}
+
+}

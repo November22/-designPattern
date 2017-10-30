@@ -1,0 +1,11 @@
+package impl;
+
+import abs.Employer;
+
+public class Client {
+	public static void main(String[] args) {
+		Employer pm = new ProjectManager("项目经理");
+		Employer pa = new ProjectAssistant("项目助理");
+		Employer p1 = new Programmer("程序员1");
+	}
+}

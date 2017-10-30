@@ -1,0 +1,5 @@
+package impl2;
+
+public class Originator {
+	private String state1= "";
+}

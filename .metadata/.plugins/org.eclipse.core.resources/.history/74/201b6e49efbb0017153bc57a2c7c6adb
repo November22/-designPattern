@@ -1,0 +1,18 @@
+package impl;
+
+import abs.Clothing;
+import abs.Person;
+
+public class Lady extends Person{
+
+	public Lady() {
+		setType("≈Æ»À");
+	}
+	
+	@Override
+	public void dress() {
+		Clothing c = getClothing();
+		
+	}
+
+}

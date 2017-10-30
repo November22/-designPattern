@@ -1,0 +1,19 @@
+package impl;
+
+import abs.Target;
+
+public class Adapter implements Target{
+
+	@Override
+	public void adapteeMethod() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void adapterMethod() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

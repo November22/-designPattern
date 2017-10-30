@@ -1,0 +1,10 @@
+package impl;
+
+/**
+ * ±¸ÍüÂ¼
+ * @author sen.huang
+ *
+ */
+public class Memento {
+
+}

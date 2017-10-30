@@ -1,0 +1,19 @@
+package impl2;
+
+import java.util.Map;
+
+public class Memento {
+	private Map<String, Object> stateMap;
+	
+	public Memento(Map<String, Object> map){
+		this.stateMap = map;
+	}
+	
+	public void setStateMap(Map<String, Object> map){
+		this.stateMap = map;
+	}
+	
+	public Map<String, Object> getStateMap(){
+		return this.stateMap;
+	}
+}

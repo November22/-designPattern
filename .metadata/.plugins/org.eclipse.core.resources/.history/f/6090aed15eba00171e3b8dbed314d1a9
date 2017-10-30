@@ -1,0 +1,8 @@
+package zhuangshi;
+
+public abstract class Clothing implements Person{
+	@Override
+	public void show(){
+		
+	}
+}

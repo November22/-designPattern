@@ -1,0 +1,23 @@
+package impl2;
+
+public class Originator {
+	private String state1= "";
+	private String state2= "";
+	private String state3= "";
+	
+	
+	
+	public Memento createMemento(){
+		return new Memento(BeanUtils.backupProp(this));
+	}
+	
+	public void restoreMemento(Memento memento){
+		BeanUtils.restoreProp(this, memento.getStateMap());
+	}
+	
+	@Override
+	public String toString() {
+		
+		return state1+"-"+state2+"-"+state3;
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;iml&apos; to &apos;impl&apos;&#x0D;&#x0A;- Original project: &apos;zuHeMoShi&apos;&#x0D;&#x0A;- Original element: &apos;zuHeMoShi/src/iml&apos;&#x0D;&#x0A;- Renamed element: &apos;zuHeMoShi/src/impl&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;iml&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;iml" name="impl" qualified="false" references="true" stamp="1509373482862" textual="false" version="1.0"/>
+</session>

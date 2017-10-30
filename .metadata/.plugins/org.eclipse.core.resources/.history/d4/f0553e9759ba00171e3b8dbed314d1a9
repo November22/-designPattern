@@ -1,0 +1,24 @@
+package impl;
+
+import abs.Target;
+
+/**
+ * 对Adaptee的接口与Target接口进行适配
+ * @author sen.huang
+ *
+ */
+public class Adapter implements Target{
+
+	@Override
+	public void adapteeMethod() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void adapterMethod() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

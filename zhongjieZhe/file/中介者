@@ -1,0 +1,10 @@
+	同事类说明：两个类A和B，类中各有一个数字，并且要保证类B中的数字永远是类A中数字的100倍。
+	
+	1.AbstractMediator.java 抽象中介者，用来处理同事类之间的关系
+	2.Mdeiator.java 抽象中介者的实现，具体处理同事类之间的关系；
+	
+	3.AbstractColleague.java 抽象同事类
+	4.ColleagueA.java 抽象同事类的实现类A
+	5.ColleagueB.java 抽象同事类的实现类B
+	
+	
