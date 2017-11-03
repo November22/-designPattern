@@ -9,6 +9,6 @@ public class Client {
 		Flyweight f2 = FlyweightFactory.getFlyweight("a");
 		System.out.println(f1 == f2);
 		Flyweight f3 = FlyweightFactory.getFlyweight("b");
-		
+		f3.action(2);
 	}
 }
